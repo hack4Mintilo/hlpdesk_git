@@ -10,7 +10,7 @@
 <h2>How to setup a git environment in any path?</h2>
 <ul>
   <li>Login to GitHub page</li>
-  <li>Copy the repository where you would like to develop your projects (e.g., proj_mintilo_python.git)</li>
+  <li>Copy the repository where you would like to develop your projects (e.g., https://github.com/hack4Mintilo/proj_mintilo_python.git)</li>
   <li>Go to your PC where you would like to store the GitHub repo (e.g., /Users/<user>/Documents/laboratory/Python on MAC)</li>
   <li>Go to the Terminal and change the current working directory (i.e., > cd /Documents/laboratory/Python)</li>
   <li>Clone the repository (e.g., > git clone https://github.com/hack4Mintilo/proj_mintilo_python.git)</li>
